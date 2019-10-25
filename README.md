@@ -1,0 +1,1 @@
+# 3.-Speech-to-text-for-OpenVINI-on-GNA
